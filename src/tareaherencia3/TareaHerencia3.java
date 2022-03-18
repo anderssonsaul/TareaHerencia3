@@ -7,6 +7,7 @@ package tareaherencia3;
 public class TareaHerencia3 {
 
     /**
+*se agrega comentario
      * @param args the command line arguments
      */
     public static void main(String[] args) {
